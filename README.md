@@ -25,7 +25,7 @@ I am currently pursuing master's in Computer Science at Fergusson College.
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/pasalkarvaibhavi)
+- [LinkedIn](in/vaibhavi-pasalkar-0664a2319)
 
 
 

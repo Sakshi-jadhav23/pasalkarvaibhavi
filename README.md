@@ -15,7 +15,7 @@ I am currently pursuing master's in Computer Science at Fergusson College.
 
 ## 📊 GitHub Stats
 
-![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasalkarvaibhavi&show_icons=true&theme=radical)
+![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasalkarvaibhavi&show_icons=true&theme=)
 
 
 

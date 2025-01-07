@@ -9,9 +9,9 @@ I am currently pursuing master's in Computer Science at Fergusson College.
 ## 🛠️ Technologies & Tools
 
 - **Languages:** 
-- **Frameworks:** [Frameworks You Use]
-- **Tools:** [Development Tools You Use]
-- **Databases:** [PostesSQL]
+- **Frameworks:**
+- **Tools:**
+- **Databases:** PostesSQL
 
 ## 📊 GitHub Stats
 
@@ -19,9 +19,6 @@ I am currently pursuing master's in Computer Science at Fergusson College.
 
 
 
-## 📈 GitHub Activity Graph
-
-![Vaibhavi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pasalkarvaibhavi&theme=react-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

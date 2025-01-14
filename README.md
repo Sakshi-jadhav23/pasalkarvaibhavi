@@ -6,12 +6,7 @@ I am currently pursuing master's in Computer Science at Fergusson College.
 
 
 
-## 🛠️ Technologies & Tools
 
-- **Languages:** HTML, CSS, C, Java, SQL.
-- **Frameworks:**
-- **Tools:**
-- **Databases:** PostesSQL, MySQL.
 
 ## 📊 GitHub Stats
 
